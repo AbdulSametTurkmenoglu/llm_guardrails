@@ -14,7 +14,7 @@ Bu API, bir LLM'i "Tekno Asistan" olarak görevlendirir ve aşağıdaki kontroll
 
 ### 1. Depoyu Klonlama
 ```bash
-git clone [https://github.com/kullanici-adiniz/llm_guardrails.git](https://github.com/kullanici-adiniz/llm_guardrails.git)
+git clone [https://github.com/AbdulSametTurkmenoglu(https://github.com/AbdulSametTurkmenoglu/llm_guardrails.git)
 cd llm_guardrails
 ```
 
